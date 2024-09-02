@@ -28,3 +28,8 @@
 # SETS
 fruits = {"apple", "banana", "papaya", "orange"}
 print(fruits)
+
+#tuples
+fruits = ("apple", "banana", "papaya", "orange")
+print(fruits)
+
